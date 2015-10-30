@@ -1,4 +1,4 @@
 # Boston-based design events
 
-http://creativemornings.com/cities/bos
-http://designmuseumfoundation.org/boston/events/
+1. http://creativemornings.com/cities/bos
+2. http://designmuseumfoundation.org/boston/events/
