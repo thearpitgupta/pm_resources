@@ -2,6 +2,12 @@
 
 http://makerbook.net/
 https://slate.adobe.com/welcome/ (need to checkout)
+http://www.webalys.com/nova/?ref=producthunt  # icon sets
+http://designforstartup.net/?ref=producthunt  -- All design related resources
+http://www.productpsychology.com/lesson-3-should-you-listen-to-your-users-or-your-data/?utm_content=buffer0159f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+# Free Photos
+http://visualhunt.com/?ref=producthunt
 
 # Colors 
 1. Introduction to Color Theory http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm 
